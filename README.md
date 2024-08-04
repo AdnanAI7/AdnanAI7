@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in the field of Artificial Intelligence and Machine Learning 
 - 📫 You can reach me on aimldsadnan@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can cook 
+- ⚡ Fun fact: I can't stay consistent 
 
 <!---
 AdnanAI7/AdnanAI7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
