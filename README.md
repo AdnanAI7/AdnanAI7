@@ -1,4 +1,4 @@
-* Welcome *
+# Welcome 
 - 👋 Hi, I’m @AdnanAI7 A masters student in Management and Information Technology started my quest towards Artificial intelligence, Machine Learning and Data Science 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning Data Science and Robotics 
 - 🌱 I’m currently learning Masters in Management and Information Technology from WHZ Germany 
